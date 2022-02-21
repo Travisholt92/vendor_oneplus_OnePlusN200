@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<compatconfiglist update-time="2019-10-11 09:12:45">
+  <aa>com.antutu.ABenchMark</aa>
+  <aa>com.qihoo360.mobilesafe.bench</aa>
+  <aa>com.ludashi.benchmark</aa>
+  <aa>cn.opda.android.activity</aa>
+  <aa>com.tencent.benchmark</aa>
+  <aa>com.huahua.test</aa>
+  <aa>com.futuremark.pcmark.android.benchmark</aa>
+  <aa>com.futuremark.dmandroid.application</aa>
+  <aa>com.primatelabs.geekbench3</aa>
+  <aa>com.primatelabs.geekbench</aa>
+  <aa>com.dianxinos.toolbox.benchmark</aa>
+  <aa>cn.opda.android.DeviceMark</aa>
+</compatconfiglist>
